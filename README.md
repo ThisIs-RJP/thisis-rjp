@@ -7,7 +7,8 @@ __[kyotsuspalace.rf.gd]
 __LinkedIn__
 > [https://www.linkedin.com/in/rj-paraiso-1910a8289/]
 
-__I'm currently working on__
+**I'm currently working on**
+
 __RaiBot, Discord Bot using discord.py__
 __A ReactJS Website, one for a personal project and another to create a custom website template for future use__
 __A Honkai Impact Star Rail Warping Simulator using Python__
