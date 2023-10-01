@@ -1,4 +1,16 @@
-### Hi there 👋
+### Rhodney "RJ" Paraiso
+*Welcome to my GitHub...*
+
+__Feel free to access my website here__
+> [kyotsuspalace.rf.gd]
+
+__LinkedIn__
+> [https://www.linkedin.com/in/rj-paraiso-1910a8289/]
+
+__I'm currently working on__
+> RaiBot, Discord Bot using discord.py
+> A ReactJS Website, one for a personal project and another to create a custom website template for future use
+> A Honkai Impact Star Rail Warping Simulator using Python
 
 <!--
 **ThisIs-RJP/thisis-rjp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
