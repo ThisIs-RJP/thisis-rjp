@@ -11,6 +11,7 @@ __LinkedIn__
 
 RaiBot, Discord Bot using discord.py
 A ReactJS Website, one for a personal project and another to create a custom website template for future use
+
 A Honkai Impact Star Rail Warping Simulator using Python
 
 <!--
