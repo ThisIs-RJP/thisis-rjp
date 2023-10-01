@@ -2,7 +2,7 @@
 *Welcome to my GitHub...*
 
 __Feel free to access my website here__
-> [kyotsuspalace.rf.gd]
+> [http://kyotsuspalace.rf.gd/]
 
 __LinkedIn__
 > [https://www.linkedin.com/in/rj-paraiso-1910a8289/]
