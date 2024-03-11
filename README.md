@@ -5,7 +5,7 @@ __ReactJS Website Template (Using YOASOBI)__
 > [https://yoasobi-web.vercel.app/]
 
 __ReactJS Personal Website (Only viewable on PC)__
-> [https://yoasobi-web.vercel.app/](https://personal-gules-pi.vercel.app/]
+> [https://personal-gules-pi.vercel.app/]
 
 __LinkedIn__
 > [https://www.linkedin.com/in/rj-paraiso-1910a8289/]
