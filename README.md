@@ -1,7 +1,7 @@
 ### Rhodney "RJ" Paraiso
 *Welcome to my GitHub...*
 
-__ReactJS Personal Website
+__ReactJS Personal Website__
 > [https://rjparaiso.vercel.app/]
 
 __LinkedIn__
