@@ -1,8 +1,8 @@
 ### Rhodney "RJ" Paraiso
 *Welcome to my GitHub...*
 
-__ReactJS Personal Website (Only viewable on PC)__
-> [https://personal-gules-pi.vercel.app/]
+__ReactJS Personal Website
+> [https://rjparaiso.vercel.app/]
 
 __LinkedIn__
 > [https://www.linkedin.com/in/rj-paraiso-1910a8289/]
